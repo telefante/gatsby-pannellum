@@ -1,0 +1,21 @@
+{
+    "panorama.jpg": {
+      "hotspots": [
+        {
+          "pitch": 10,
+          "yaw": 30,
+          "type": "image",
+          "text": "Hotspot 1",
+          "URL": "/hotspot1.jpg"
+        },
+        {
+          "pitch": -20,
+          "yaw": 60,
+          "type": "info",
+          "text": "InfoSpot 1",
+          "info": "This is an information spot."
+        }
+      ]
+    }
+  }
+  
