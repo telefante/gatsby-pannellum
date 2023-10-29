@@ -6,7 +6,7 @@
           "yaw": 30,
           "type": "image",
           "text": "Hotspot 1",
-          "URL": "/hotspot1.jpg"
+          "URL": "hotspot.jpg"
         },
         {
           "pitch": -20,
@@ -18,4 +18,3 @@
       ]
     }
   }
-  
